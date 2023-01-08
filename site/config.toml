@@ -13,12 +13,12 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2023 Svetlna Orlova"
+copyright = "&copy;2023 Svitlana Orlova"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Svetlna Orlova"
+  author = "Svitlana Orlova"
   description = "I help managers to improve work relationships, build moral and increase productivity and retention in their teams."
   shareImage = "images/social.jpg"
   twitterHandle = "LanaCaplana"
