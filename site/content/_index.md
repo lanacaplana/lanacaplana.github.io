@@ -1,5 +1,5 @@
 +++
-title = "Svetlna Orlova"
+title = "Svitlana Orlova"
 tagline = "Professional. Empathehtic.  Mentor."
 +++
 

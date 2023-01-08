@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://gracefulhr.com/"
 languageCode = "en-US"
-title = "Svetlna's Thoughts"
+title = "Svitlana's Thoughts"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
