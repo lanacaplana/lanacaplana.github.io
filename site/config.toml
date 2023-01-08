@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://lanacaplana.github.io/"
+baseURL = "https://lanacaplana.github.io/lanacaplana/"
 languageCode = "en-US"
 title = "Svetlna's Thoughts"
 theme = "hugo-split-theme"
