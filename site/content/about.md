@@ -18,6 +18,6 @@ As an HR Professional, I understand how the effective management and leadership 
 
 I know that grace is a top quality of outstanding leaders. Graceful people are empathetic and elegant. They care about others and treat them with respect and dignity. They move gently towards their goals, embracing all challenges in a noble and ethical manner. They often succeed.
 
-### What to expect from this blog 
+### What to expect
 
-So, my blog is about effective and ethical people management approaches for those who want to be an outstanding leader!
+My blog is about effective and ethical people management approaches for those who want to be an outstanding leader!
