@@ -1,3 +1,6 @@
 [submodule "site/themes/hugo-split-theme"]
 	path = site/themes/hugo-split-theme
 	url = https://github.com/escalate/hugo-split-theme.git
+[submodule "site/themes/amnix"]
+	path = site/themes/amnix
+	url = https://github.com/vimux/amnix
