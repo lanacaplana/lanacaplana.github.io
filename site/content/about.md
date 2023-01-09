@@ -6,14 +6,18 @@ author: Svitlana Orlova
 menu: main
 ---
 
-Hello,
+### Who I am
 
 My Name is Svitlana Orlova. I am an HR Professional, helping managers to lead their teams gracefully.
 
-I strongly believe that in the bottom line, all business activities and results are about interactions between a leader and group. The success of those interactions, robust trust, effective delegation, and clear understanding of business goals depend on the quality of relationships managers build with their teams.
+I strongly believe that all the business activities and results come down to interaction between a leader and a group. The success of that interaction - robust trust, effective delegation, clear understanding of business goals - depend on the quality of relationships managers can build with their teams.
 
-As an HR Professional, I understand how effective management and leadership looks like. I also see people issues and partner with business leaders to overcome those challenges, advising on relevant models, tools, people data and helping them to become outstanding leaders.
+### What I do
 
-I know that grace is a top quality of outstanding leaders. Graceful people are empathetic and elegant. They care about others and treat them with respect and dignity. They move gently towards their goals, embracing all challenges in a noble and ethical manner.
+As an HR Professional, I understand how the effective management and leadership looks like. I also see people issues and partner with business leaders to overcome those issues, advising on relevant models, tools, people data, and thus, help them to become outstanding leaders.
 
-So my blog is about effective and ethical people management approaches for those who want to be an outstanding leader!
+I know that grace is a top quality of outstanding leaders. Graceful people are empathetic and elegant. They care about others and treat them with respect and dignity. They move gently towards their goals, embracing all challenges in a noble and ethical manner. They often succeed.
+
+### What to expect from this blog 
+
+So, my blog is about effective and ethical people management approaches for those who want to be an outstanding leader!
