@@ -1,18 +1,19 @@
 ---
 title: About
 description: Gracefult tips on working with people.
-date: 2019-02-28
+date: 2023-01-05
 author: Svitlana Orlova
 menu: main
 ---
 
-## Some Heading
-Eu ipsum ad ex reprehenderit velit deserunt mollit cupidatat. Dolor duis nostrud officia exercitation nisi nostrud veniam consectetur proident. Enim in excepteur occaecat Lorem do id exercitation.
+Hello,
 
-## Another Heading
-Esse ex mollit reprehenderit incididunt adipisicing ad velit culpa laboris commodo culpa fugiat id nostrud. Dolore commodo ut excepteur in sint velit sit incididunt. Consequat magna ad et nulla nulla est officia tempor nostrud exercitation culpa irure ea. Incididunt adipisicing ad do voluptate commodo veniam laboris. Sunt excepteur labore do pariatur veniam ullamco ea laboris. Et eu excepteur ut cupidatat eiusmod non exercitation do ea ut eu proident minim. Ullamco officia culpa reprehenderit ex et ullamco exercitation aute eiusmod ea.
+My Name is Svitlana Orlova. I am an HR Professional, helping managers to lead their teams gracefully.
 
-## And one more
-Deserunt deserunt eu officia et et. Ipsum ad aliqua dolore exercitation elit pariatur deserunt id quis sit eiusmod minim fugiat. Et velit nisi sunt ad sit.
+I strongly believe that in the bottom line, all business activities and results are about interactions between a leader and group. The success of those interactions, robust trust, effective delegation, and clear understanding of business goals depend on the quality of relationships managers build with their teams.
 
-Aliqua est nisi et ut nulla deserunt laboris enim non labore pariatur proident ex laboris. Excepteur commodo nisi reprehenderit esse duis est officia velit. Laboris est labore in consequat nisi. Consequat aliquip sunt amet consequat magna dolore aliquip duis cupidatat officia ut consectetur adipisicing ut. Non ex fugiat ex sunt magna dolore.
+As an HR Professional, I understand how effective management and leadership looks like. I also see people issues and partner with business leaders to overcome those challenges, advising on relevant models, tools, people data and helping them to become outstanding leaders.
+
+I know that grace is a top quality of outstanding leaders. Graceful people are empathetic and elegant. They care about others and treat them with respect and dignity. They move gently towards their goals, embracing all challenges in a noble and ethical manner.
+
+So my blog is about effective and ethical people management approaches for those who want to be an outstanding leader!
