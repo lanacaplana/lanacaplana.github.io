@@ -1,0 +1,30 @@
+{{- $page := . }}
+{{- $sidebarFront := .Params.sidebar }}
+{{- $sidebarPositionSite := .Site.Params.sidebar.position | default "right" }}
+{{- $sidebarPositionKind := "" }}
+{{- $sidebarPositionFront := "" }}
+
+{{- if reflect.IsMap $sidebarFront }}
+	{{ $sidebarPositionFront = $sidebarFront.position }}
+	{{ $sidebarFront = $sidebarFront.widgets }}
+{{- end }}
+
+{{- if eq $.Kind "page" }}
+	{{ $sidebarPositionKind = .Site.Params.sidebar.positionSingle }}
+{{- else if eq $.Kind "home" }}
+	{{ $sidebarPositionKind = .Site.Params.sidebar.positionHome }}
+{{- else }}
+	{{ $sidebarPositionKind = .Site.Params.sidebar.positionList }}
+{{- end }}
+
+{{- $sidebarPosition := default (default $sidebarPositionSite $sidebarPositionKind) $sidebarPositionFront }}
+{{- $widgetsList := default .Site.Params.sidebar.widgets $sidebarFront }}
+
+{{- if and $widgetsList $sidebarPosition -}}
+<aside class="sidebar{{ if eq $sidebarPosition "left" }} sidebar--left{{ end }} sidecards">
+	{{- range $widget := $widgetsList }}
+		{{- $widgetPath := printf "widgets/%s.html" $widget }}
+		{{- partial $widgetPath $page }}
+	{{- end }}
+</aside>
+{{- end }}

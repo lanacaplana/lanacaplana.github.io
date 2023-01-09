@@ -1,0 +1,23 @@
+{{- if and .IsPage ($share := default .Site.Params.Entry.share .Params.share) }}
+<div class="entry__share share">
+	{{- $size := 28 }}
+
+	{{- range $share }}
+		{{- range (where $.Site.Data.share.items ".id" "eq" .) }}
+			{{- $svgClass := printf `%s %s%s %s` "share__icon" "share__icon--" .id "transition" }}
+			{{- $href := replace .url "{{ .Permalink }}" ($.Permalink | htmlEscape) }}
+			{{- $href = replace $href "{{ .Title }}" ($.Title | htmlEscape) }}
+			<a
+				class="share__link transition"
+				title="{{ T "share-caption" }} {{ .title }}"
+				href="{{ $href }}"
+				target="_blank"
+				rel="noopener noreferrer"
+				onclick="window.open(this.href, '{{ T "share-caption" }} {{ .title }}', 'width=800,height=600,toolbar=0,status=0'); return false"
+			>
+				{{ partial .icon (dict "class" $svgClass "size" $size) }}
+			</a>
+		{{- end }}
+	{{- end }}
+</div>
+{{- end }}

@@ -1,0 +1,74 @@
+{
+  "name": "amnix",
+  "version": "1.0.0",
+  "description": "Responsive and configurable Hugo theme",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "editorconfig-checker": "^4.0.2",
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.0.0",
+    "stylelint": "^14.15.0",
+    "stylelint-order": "^5.0.0"
+  },
+  "browserslist": [
+    "> 0.25%",
+    "last 2 version",
+    "not dead",
+    "IE 11",
+    "iOS >= 9"
+  ],
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {
+        "cascade": false
+      }
+    }
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base",
+    "env": {
+      "browser": true
+    },
+    "rules": {
+      "indent": [
+        2,
+        "tab"
+      ],
+      "comma-dangle": [
+        "error",
+        {
+          "arrays": "always-multiline",
+          "objects": "always-multiline",
+          "imports": "always-multiline",
+          "exports": "always-multiline",
+          "functions": "ignore"
+        }
+      ],
+      "no-tabs": 0
+    }
+  },
+  "scripts": {
+    "lint": "npm run lint:css && npm run lint:js && npm run lint:editorconfig",
+    "lint:css": "stylelint assets/css/*.css",
+    "lint:js": "eslint static/js/*.js",
+    "lint:editorconfig": "editorconfig-checker",
+    "fix": "npm run fix:prefixes && npm run fix:css && npm run fix:js",
+    "fix:prefixes": "postcss -r assets/css/*.css",
+    "fix:css": "stylelint assets/css/*.css --fix",
+    "fix:js": "eslint static/js/*.js --fix",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimux/amnix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vimux/amnix/issues"
+  },
+  "homepage": "https://github.com/vimux/amnix"
+}
