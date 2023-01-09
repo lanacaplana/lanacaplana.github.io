@@ -7,7 +7,6 @@ tags:
   - "world"
 categories:
   - "blogging"
-  - "something"
 enableEmoji = true 
 ---
 
