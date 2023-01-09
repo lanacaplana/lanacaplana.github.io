@@ -1,5 +1,5 @@
 ---
-title: About ME
+title: About
 description: Gracefult tips on working with people.
 date: 2019-02-28
 author: Svitlana Orlova
