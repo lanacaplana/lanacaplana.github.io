@@ -2,7 +2,7 @@
 baseURL = "https://gracefulhr.com/"
 title = "Random thoughts on working with people"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+paginate = "11" # Number of posts per page
 theme = "amnix"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
