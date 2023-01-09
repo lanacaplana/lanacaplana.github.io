@@ -7,7 +7,7 @@ tags:
   - "world"
 categories:
   - "blogging"
-enableEmoji = true 
+enableEmoji: true 
 ---
 
 Hello! 
