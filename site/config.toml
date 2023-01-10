@@ -7,6 +7,7 @@ theme = "amnix"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 description = "Graceful tips on working with people."
+enableEmoji = true 
 
 # Copyright
 copyright = "&copy;2023 Svitlana Orlova"
