@@ -28,9 +28,9 @@ copyright = "&copy;2023 Svitlana Orlova"
 [Params.Social] # Site Social block
   # email = "example@example.com"
   # facebook = "username"
-  twitter = "username"
-  telegram = "username"
-  linkedin = "username"
+  # twitter = "username"
+  # telegram = "username"
+  linkedin = "svitlana-orlova-60849346"
 
 [Params.sidebar]
   widgets = ["recent", "categories", "tags"]
