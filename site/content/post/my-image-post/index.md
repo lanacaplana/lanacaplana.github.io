@@ -6,8 +6,8 @@ date: 2023-01-11
 featured:
   url: thumbnail.png
   alt: A woman in front of her laptop with a dog
-  caption: Working remotely
-  credit: Unknown author
+  # caption: Working remotely
+  # credit: Unknown author
   previewOnly: false
 ---
 
