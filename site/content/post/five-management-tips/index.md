@@ -1,11 +1,11 @@
 ---
-title: "5 management tips to improve work relationships, build morale and increase productivity and retention"
+title: "5 management tips to improve team engagement"
 date: 2022-03-25
 featured:
   url: featured.png
   alt: Several colleagues around the desk smiling 
   previewOnly: false
-summary: "Working as an HR Business Partner both in the United Nations and IT sector, I met many outstanding leaders and effective teams. All of them ..."
+summary: "Employees with high quality jobs and professional managers are happier, healthier and better fulfilled, driving productivity, better quality ..."
 tags:
   - "leadership"
   - "engagement"
@@ -16,9 +16,9 @@ categories:
   - "Leadership development"
 ---
 
-Working as an HR Business Partner both in the United Nations and IT sector, I met many outstanding leaders and effective teams. All of them were well-educated and highly-skilled, demonstrating compelling professional competencies, ideally matching the culture of their organisations. However, some of them were more successful than others. 
+Employees with high quality jobs and professional managers are happier, healthier and better fulfilled, driving productivity, better quality of goods and level of services, as well as boosting innovation. The question is what should a manager do to reach such results? 
 
-Obviously, employees with high quality jobs and professional managers are happier, healthier and better fulfilled, driving productivity, better quality of goods and level of services, as well as boosting innovation. The question is what should a manager do to reach such results? 
+Working as an HR Business Partner both in the United Nations and IT sector, I met many outstanding leaders and effective teams. All of them were well-educated and highly-skilled, demonstrating compelling professional competencies, ideally matching the culture of their organisations. However, some of them were more successful than others. Their team had good work relationships, high morale, as well as increased productivity and retention.
 
 A [recent research](https://www.cipd.co.uk/knowledge/fundamentals/relations/engagement/factsheet#gref) revealed 5 line manager behaviours supporting health, wellbeing and engagement. I list them breifly for your below: 
 
