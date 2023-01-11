@@ -15,7 +15,8 @@ tags:
   - "motivation"
 categories:
   - "Employee engagement"
-  - "Distributed teams"---
+  - "Distributed teams"
+---
 
 We live in a post-pandemic world, when people faced and went through the unprecedented change in the world of work. It had a tremendous effect on their working lives. Coming to the office and meeting people in person appeared no longer to be a norm. On top of that, massive workforce migration caused by the war in Ukraine made lots of businesses face an urgent need to manage their chaotically dispersed workforce to survive. For them a remote work mode seems to be not a privilege or necessity anymore but rather a new reality. So what do we know about remote work?
 
