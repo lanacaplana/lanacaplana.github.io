@@ -10,6 +10,8 @@ featured:
   # credit: Unknown author
   previewOnly: false
 summary: "My custom summary goes here"
+draft: true
+
 ---
 
 Some content here.
