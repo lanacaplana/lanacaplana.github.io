@@ -4,7 +4,7 @@ description: "In this page, we will explain what featured images are and show yo
 image for a page."
 date: 2023-01-11
 featured:
-  url: thumbnail.jpg
+  url: thumbnail.png
   alt: A woman in front of her laptop with a dog
   caption: Working remotely
   credit: Unknown author
