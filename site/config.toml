@@ -16,6 +16,7 @@ copyright = "&copy;2023 Svitlana Orlova"
   description = "Working with people on a daily basis" # Site description. Used in meta description
   opengraph = true # Enable OpenGraph
   twitterCards = true # Enable Twitter Cards
+  columns = 2
   homeLayout = "2 columns + sidebar" # Configure home page layout
   listLayout = "2 columns + sidebar" # Configure layout for list pages
   singleLayout = "content + sidebar" # Configure layout for single pages
