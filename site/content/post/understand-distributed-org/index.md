@@ -3,10 +3,8 @@ title: A key to understand a distributed organization best
 description: "A key to understand a distributed organization best"
 date: 2023-01-11
 featured:
-  url: thumbnail.png
-  alt: A woman in front of her laptop with a dog
-  # caption: Working remotely
-  # credit: Unknown author
+  url: featured.png
+  alt: A woman in front of her laptop sitting on a deck with a landscape view.
   previewOnly: false
 summary: "We live in a post-pandemic world, when people faced and went through the unprecedented change in the world of work. It had a tremendous effect..."
 tags:
