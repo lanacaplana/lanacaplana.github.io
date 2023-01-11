@@ -1,7 +1,6 @@
 ---
 title: A key to understand a distributed organization best
-description: "In this page, we will explain what featured images are and show you some examples how to add a featured \
-image for a page."
+description: "A key to understand a distributed organization best"
 date: 2023-01-11
 featured:
   url: thumbnail.png
@@ -9,8 +8,14 @@ featured:
   # caption: Working remotely
   # credit: Unknown author
   previewOnly: false
-summary: "We live in a post-pandemic world, when people faced and went through the unprecedented change in the world of work. It had a tremendous effect"
----
+summary: "We live in a post-pandemic world, when people faced and went through the unprecedented change in the world of work. It had a tremendous effect..."
+tags:
+  - "hybrid"
+  - "productivity"
+  - "motivation"
+categories:
+  - "Employee engagement"
+  - "Distributed teams"---
 
 We live in a post-pandemic world, when people faced and went through the unprecedented change in the world of work. It had a tremendous effect on their working lives. Coming to the office and meeting people in person appeared no longer to be a norm. On top of that, massive workforce migration caused by the war in Ukraine made lots of businesses face an urgent need to manage their chaotically dispersed workforce to survive. For them a remote work mode seems to be not a privilege or necessity anymore but rather a new reality. So what do we know about remote work?
 
@@ -20,7 +25,4 @@ Among the [benefits of implementing remote working](https://www.forbes.com/sites
 
 ![Zoom meeting working from home](working-remotely-meeting.png)
 
-Many managers still require their employees to come to an office voicing their concerns of team productivity and retention or caring of already-set work processes. Well, those hesitant can learn from the SAP experience. With its 100,000 employees worldwide, it was one of the first digital companies to implement remote work ‘as a norm’ following their lockdown experience. With this decision, they demonstrated a high level of trust and concern to their personnel, as the internal polls showed up to 90% of staff would prefer to return to the office after the pandemic risks diminish. 
-
-This theme uses [page bundles](https://gohugo.io/content-management/organization/#page-bundles) for featured images.
-There are two main different ways to add a featured image.
+Many managers still require their employees to come to an office voicing their concerns of team productivity and retention or caring of already-set work processes. Well, those hesitant can learn from the [SAP experience](https://www.sap.com/insights/viewpoints/remote-work-new-normal.html). With its 100,000 employees worldwide, it was one of the first digital companies to implement remote work ‘as a norm’ following their lockdown experience. With this decision, they demonstrated a high level of trust and concern to their personnel, as the internal polls showed up to 90% of staff would prefer to return to the office after the pandemic risks diminish. 
