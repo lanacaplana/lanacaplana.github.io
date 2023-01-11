@@ -1,6 +1,11 @@
 ---
 title: "5 management tips to improve work relationships, build morale and increase productivity and retention"
-date: 2022-02-25
+date: 2022-03-25
+featured:
+  url: featured.png
+  alt: Several colleagues around the desk smiling 
+  previewOnly: false
+summary: "Working as an HR Business Partner both in the United Nations and IT sector, I met many outstanding leaders and effective teams. All of them ..."
 tags:
   - "leadership"
   - "engagement"
@@ -40,7 +45,7 @@ A [recent research](https://www.cipd.co.uk/knowledge/fundamentals/relations/enga
 * be available and provide opportunities to speak one-to-one. 
 
 #### 5. Support development:
-* take time to discuss employee career development and actively support them to develop,
-* offer opportunities and arrange career progression and development.
+* take time to discuss employee career development and actively support them on that,
+* offer opportunities and arrange career progression.
 
 [Reflect on your own behaviours](https://www.cipd.co.uk/knowledge/fundamentals/people/line-manager/behaviour-framework-alignment-quiz) and devote 10 minutes a day practising in order to be an outstanding leader managing a successful and engaged team.
