@@ -18,6 +18,6 @@ There are two main different ways to add a featured image.
 This theme considers `featured` or `thumbnail` image in any popular graphic format in the root of the page bundle as
 a featured image.
 
-![Zoom meeting working from home](/working-remotely-meeting.png)
+![Zoom meeting working from home](working-remotely-meeting.png)
 
 Directory structure of this page:
