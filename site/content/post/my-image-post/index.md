@@ -9,11 +9,12 @@ featured:
   # caption: Working remotely
   # credit: Unknown author
   previewOnly: false
+summary: "My custom summary goes here"
 ---
 
 Some content here.
 
-Content pages in Hugo can<!--more--> have their images or any other files stored under the same directory of the page itself.
+Content pages in Hugo can have their images or any other files stored under the same directory of the page itself.
 In Hugo's terms, it's called **page bundle** and allows us to keep all assets together with a page content file.
 
 This theme uses [page bundles](https://gohugo.io/content-management/organization/#page-bundles) for featured images.
