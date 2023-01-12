@@ -1,5 +1,5 @@
 ---
-title: How to measure productivity in a remote context
+title: How to assess productivity in a remote context
 description: "How to measure productivity in a remote context"
 date: 2023-01-11
 featured:
@@ -14,22 +14,13 @@ categories:
   - "Distributed teams"
 ---
 
-Depending on the type of business, specialised discipline and business KPIs one can apply different approaches to measure productivity in a remote context. 
+Assessing productivity is something companies would consider when offering remote work arrangements for their employees. Depending on the business sector, technology, working schedules and specialised discipline, they can apply a [range of approaches](https://remote.co/employers-share-how-measure-productivity-among-remote-workers/) varying from the time logging to culture shift in order to have their business targets met. 
 
-In structured and systematic UN context, when robust performance management - SMART goal setting, annual appraisals, feedback culture - is in place, accompanied with the defined approach to team management, such as project management and organisational maturity standards, planning and monitoring of project results help to keep up on the priorities and diligently report on the project results. In contrast, the IT outsource company, ould require time logging and Jira task management and Agile projects management to monitor productivity and provide clients with the valid data. 
+For instance, in a systematic UN agency, when robust performance management components like SMART goal setting, annual appraisals, and feedback culture are in place, managers can clearly set expectations and check the results occasionally following the performance management cycle. In contrast, an IT outsource company would require their personnel to do time logging and Jira task management regularly to monitor productivity and provide clients with the valid invoices. However, both would rely on some project management frameworks while planning activities and evaluating results to keep up on the priorities and diligently report on the outcomes.
 
-Although the productivity evaluation tools [vary significantly](https://remote.co/qa-leading-remote-companies/how-do-you-measure-productivity-of-remote-workers/), I would highlight several principles for [monitoring and managing teleworkers](https://remote.co/4-proven-remote-productivity-monitoring-and-management-strategies/):
+Although the [productivity assessment tools](https://remote.co/qa-leading-remote-companies/how-do-you-measure-productivity-of-remote-workers/) vary significatnly, there are several fundamental principles to follow for [managing teleworkers](https://remote.co/4-proven-remote-productivity-monitoring-and-management-strategies/):
+1. Trust your employees that they would do their best to meet the business goals. In order to evaluate people’s experiences at the workplace, you can use employee engagement and work motivation measurements.
+2. Build a result-oriented culture focusing on showing productivity rather than just tracking hours, clarify the role and assign accountability for results.
+3. Ensuring you have a robust performance management system in place, including goals setting, feedback giving, prioritising and regular progress tracking.
 
-1. trusting your employees that they would do their best to meet the business goals. We can put in place measures of work engagement and motivation to evaluate people's experiences at the workplace
-2. building a result-oriented culture focusing on productivity rather than hours and accountability for results
-3. ensuring you have a robust performance management system in place, including goals setting, feedback giving, prioritising and regular progress tracking
-
-Here are some more [employer tips on how to assess productivity](https://remote.co/employers-share-how-measure-productivity-among-remote-workers/):
-* Maintain a results-oriented culture.
-* Set clear goals and deadlines.
-* Form plans to increase accountability.
-* Analyse important tasks.
-* Track progress on priorities.
-* Have employees track hours and activities.
-* Use your annual review process.
-* Trust your employees.
+[Open culture](https://www.braineet.com/blog/open-innovation) is something that will enable both intrinsic motivation and personal accountability, so it could be a brilliant solution to consider while switching to the remote mode. 
