@@ -5,8 +5,8 @@ date: 2022-04-11
 featured:
   url: featured.png
   alt: A person guiding a drone on horizon remotely
-  # caption: CIPD Wellbeing Pyramid Model
-  # credit: https://www.cipd.ie/news-resources/practical-guidance/guides/well-being-work
+  caption: CIPD Wellbeing Pyramid Model
+  credit: https://www.cipd.ie/news-resources/practical-guidance/guides/well-being-work
 summary: "Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing ..."
 tags:
   - "motivation"
