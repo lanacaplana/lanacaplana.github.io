@@ -5,7 +5,8 @@ date: 2022-04-11
 featured:
   url: featured.png
   alt: A person guiding a drone on horizon remotely
-  previewOnly: false
+  # caption: CIPD Wellbeing Pyramid Model
+  # credit: https://www.cipd.ie/news-resources/practical-guidance/guides/well-being-work
 summary: "Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing ..."
 tags:
   - "motivation"
@@ -15,13 +16,15 @@ categories:
   - "Employee engagement"
 ---
 
-Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing people-related decisions both on the strategic and operational business levels. Being quite a sophisticated construct, managers and HR Practitioners suffer to manage the engagement in their teams as there is no common understanding of its definition. So, let us first look closely into a definition of engagement in order to further be able to understand its drivers and ways how to use people management practices while leveraging those drivers. ..
+Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing people-related decisions both on the strategic and operational business levels. Being quite a sophisticated construct, managers and HR Practitioners suffer to manage the engagement in their teams as there is no common understanding of its definition. So, let us first look closely into a definition of engagement in order to further be able to understand its drivers and ways how to use people management practices while leveraging those drivers.
 
 Imagine, you are a doctor healing its patients. When a sick person enters your office, you will first ask questions to reveal the symptoms, then measure a temperature, as well as assign additional tests to make a diagnosis and finally prescribe a treatment. In other words, you will follow certain protocols or methodology. Likewise, employee engagement is a methodology helping managers to keep their teams healthy.   
 
-A healthy workplace is something that can be described by the Wellbeing Pyramid. It shows that in order to  build a healthy workplace, an employer must ensure that its culture, leadership and people management are the basis for building the integrated wellbeing approach. The research showed that when people feel a high level of wellbeing, they are more engaged and productive at work. But what does engagement mean?
+A healthy workplace is something that can be described by the Wellbeing Pyramid. 
 
-![Zoom meeting working from home](working-remotely-meeting.png)
+![Wellbeing Pyramid Model consisting of culture, leadership, people management and engagement](well-being-pyramid.png)
+
+It shows that in order to  build a healthy workplace, an employer must ensure that its culture, leadership and people management are the basis for building the integrated wellbeing approach. The research showed that when people feel a high level of wellbeing, they are more engaged and productive at work. But what does engagement mean?
 
 There’s no common understanding of employee engagement among the HR community or scientists. In 2009 David MacLeod found over 50 definitions of engagement. One of the earliest is Kahn's which focuses on internal state of being, such as discretionary effort or ‘going the extra mile’, it was closely related to behaviour. Some later definitions are closer to job satisfaction. These relate to a number of aspects of organisational life and are typically used by consultancies. For example, Gallup’s Q12 questionnaire covering job clarity, job resources, recognition, etc. But these measures may cause confusion, as it becomes difficult to distinguish engagement from the other concepts.
 
@@ -37,6 +40,6 @@ For the purpose of clarity, these engagement terms are not used to describe:
 * management activity - which we see as a factor that affects employee engagement,
 * job satisfaction - which may either contribute to or result from employee engagement,
 * job quality - which describes criteria of a “good work” when employees are fairly rewarded, have means to securely make a living, opportunities to develop skills and a career, etc.,
-* and employee behaviour.
+* employee behaviour.
 
 Now, when we are clear on the engagement definition, you might be curious to look closely on the engagement drivers and engagement measurements.
