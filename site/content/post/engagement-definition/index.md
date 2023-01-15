@@ -1,15 +1,18 @@
 ---
-title: Employee engagaemnt definition 
-description: "In this page, we will explain how to define the employee engagement"
-date: 2023-01-11
+title: How to define employee engagement
+description:  "In this page, I will explain how to define the employee engagement"
+date: 2022-04-11
 featured:
-  url: thumbnail.png
-  alt: A woman in front of her laptop with a dog
+  url: featured.png
+  alt: A person guiding a drone on horizon remotely
   previewOnly: false
-summary: "My custom summary goes here"
-draft: true
-categories:
+summary: "Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing ..."
 tags:
+  - "motivation"
+  - "productivity"
+  - "team health"
+categories:
+  - "Employee engagement"
 ---
 
 Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing people-related decisions both on the strategic and operational business levels. Being quite a sophisticated construct, managers and HR Practitioners suffer to manage the engagement in their teams as there is no common understanding of its definition. So, let us first look closely into a definition of engagement in order to further be able to understand its drivers and ways how to use people management practices while leveraging those drivers. ..
