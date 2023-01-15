@@ -12,7 +12,7 @@ categories:
 tags:
 ---
 
-Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing people-related decisions both on the strategic and operational business levels. Being quite a sophisticated construct, managers and HR Practitioners suffer to manage the engagement in their teams as there is no common understanding of its definition. So, let us first look closely into a definition of engagement in order to further be able to understand its drivers and ways how to use people management practices while leveraging those drivers. 
+Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing people-related decisions both on the strategic and operational business levels. Being quite a sophisticated construct, managers and HR Practitioners suffer to manage the engagement in their teams as there is no common understanding of its definition. So, let us first look closely into a definition of engagement in order to further be able to understand its drivers and ways how to use people management practices while leveraging those drivers. ..
 
 Imagine, you are a doctor healing its patients. When a sick person enters your office, you will first ask questions to reveal the symptoms, then measure a temperature, as well as assign additional tests to make a diagnosis and finally prescribe a treatment. In other words, you will follow certain protocols or methodology. Likewise, employee engagement is a methodology helping managers to keep their teams healthy.   
 
