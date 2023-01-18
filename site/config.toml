@@ -7,12 +7,10 @@ theme = "amnix"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-WB11E4N7NG" # Enable Google Analytics by entering your tracking id
 description = "Graceful tips on working with people."
-enableEmoji = true 
-
-# Copyright
-copyright = "&copy;2023 Svitlana Orlova"
+enableEmoji = true
 
 [Params]
+  defaultAuthor = "svitlana" # Default article author. Authors are located in /data/authors
   description = "Working with people on a daily basis" # Site description. Used in meta description
   opengraph = true # Enable OpenGraph
   twitterCards = true # Enable Twitter Cards
@@ -26,6 +24,9 @@ copyright = "&copy;2023 Svitlana Orlova"
   comments = true # Enable comments for all site pages
   related = true # Enable Related Content (See https://gohugo.io/content-management/related/)
   mathjax = false # Enable MathJax for all site pages
+  share = true
+  copyrightStartYear = 2022
+  copyright = "GracefulHR (Svitlana Orlova)"
 
 [Params.Social] # Site Social block
   # email = "example@example.com"

@@ -2,6 +2,8 @@
 title: A key to understand a distributed organization best
 description: "A key to understand a distributed organization best"
 date: 2023-01-11
+author: svitlana
+meta: ["date", "author"]
 featured:
   url: featured.png
   alt: A woman in front of her laptop sitting on a deck with a landscape view.

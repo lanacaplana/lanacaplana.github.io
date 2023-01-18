@@ -1,0 +1,4 @@
+{{- $author := (index .Site.Data.authors (default .Site.Params.defaultAuthor .Params.Author)) -}}
+{{- with $author }}
+	<span class="meta__author meta__item meta__divider">by {{ .displayName }}</span>
+{{- end }}
