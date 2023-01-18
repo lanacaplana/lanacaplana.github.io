@@ -1,6 +1,7 @@
 ---
 title: "5 management tips to improve team engagement"
 date: 2022-03-25
+meta: ["date", "author"]
 featured:
   url: featured.png
   alt: Several colleagues around the desk smiling 

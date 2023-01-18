@@ -2,6 +2,7 @@
 title: How to assess productivity in a remote context
 description: "How to measure productivity in a remote context"
 date: 2023-01-11
+meta: ["date", "author"]
 featured:
   url: featured.png
   alt: A person guiding a drone on horizon remotely
