@@ -7,7 +7,7 @@ featured:
   url: featured.png
   alt: A person driving a car shows thumb up
   previewOnly: false
-summary: "Reflecting a 'psychological or physical state of being’ (link) experienced by employees towards their jobs, an employee engagement can be considered as ..."
+summary: "Reflecting a 'psychological or physical state of being’ experienced by employees towards their jobs, an employee engagement can be considered as ..."
 tags:
   - "engagement"
   - "team health"
