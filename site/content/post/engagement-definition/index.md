@@ -21,7 +21,7 @@ Employee engagement has become top managers’ main point of consideration as an
 
 Imagine, you are a doctor healing its patients. When a sick person enters your office, you will first ask questions to reveal the symptoms, then measure a temperature, as well as assign additional tests to make a diagnosis and finally prescribe a treatment. In other words, you will follow certain protocols or methodology. Likewise, employee engagement is a methodology helping managers to keep their teams healthy.   
 
-A healthy workplace is something that can be described by the [Wellbeing Pyramid Model](https://www.cipd.ie/news-resources/practical-guidance/guides/well-being-work). 
+A healthy workplace is something that can be described by the [CIPD Wellbeing Pyramid Model](https://www.cipd.ie/news-resources/practical-guidance/guides/well-being-work). 
 
 ![Wellbeing Pyramid Model consisting of culture, leadership, people management and engagement](well-being-pyramid.png)
 
