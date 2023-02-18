@@ -48,8 +48,7 @@ Some of the research findings also confirmed a positive relationship between org
 
 ### 5. People management approach
 
-While the research evidenced a relation between people management approach and employee engagement, manager support was highlighted as a key driver of employee engagement. 
-However, it is not just a leadership issue. People managers must also feel supported and empowered to truly adopt such a leadership style.
+While the research evidenced a relation between people management approach and employee engagement, manager support was highlighted as a [key driver of employee engagement](https://gracefulhr.com/post/five-management-tips/). However, it is not just a leadership issue. People managers must also feel supported and empowered to truly adopt such a leadership style.
 
 > _Manager support was highlighted as a key driver of employee engagement_
 
