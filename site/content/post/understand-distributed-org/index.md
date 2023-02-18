@@ -12,9 +12,7 @@ summary: "We live in a post-pandemic world, when people faced and went through t
 tags:
   - "hybrid"
   - "productivity"
-  - "motivation"
 categories:
-  - "Employee engagement"
   - "Distributed teams"
 ---
 
