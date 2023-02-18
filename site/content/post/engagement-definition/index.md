@@ -43,4 +43,4 @@ For the purpose of clarity, these engagement terms are not used to describe:
 * job quality - which describes criteria of a “good work” when employees are fairly rewarded, have means to securely make a living, opportunities to develop skills and a career, etc.,
 * employee behaviour.
 
-Now, when we are clear on the engagement definition, you might be curious to look closely on the engagement drivers and engagement measurements.
+Now, when we are clear on the engagement definition, you might be curious to look closely on the [engagement drivers](https://gracefulhr.com/post/engagement-drivers/) and engagement measurements.
