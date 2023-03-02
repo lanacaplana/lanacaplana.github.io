@@ -1,11 +1,10 @@
 ---
 title: The Importance of Global Teams for Business Success
-date: 2023-01-11
+date: 2023-03-02
 meta: ["date", "author"]
 featured:
   url: featured.png
-  alt: A person guiding a drone on horizon remotely
-  previewOnly: false
+  alt: An arm holding a globe on a blue background
 summary: "In this blog post we discuss how global teams help businesses expand their reach, access diverse talent, and improve their agility in responding to changing market conditions"
 tags:
   - "hybrid"
