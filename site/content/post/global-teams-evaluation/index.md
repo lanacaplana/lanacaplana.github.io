@@ -4,9 +4,8 @@ date: 2023-01-21
 meta: ["date", "author"]
 featured:
   url: featured.png
-  alt: Group of people discussing something on the background of globe
-summary: "In this blog post, we will discuss quantitative and qualitative metrics for evaluating team performance, such as project completion rates, team satisfaction surveys, and feedback from clients or stakeholders. You can also discuss the importance of continuous improvement and ongoing feedback for enhancing team performance."
-draft: true
+  alt: People at the desk reviewing printed graphs
+summary: "In this blog post, we will discuss quantitative and qualitative metrics for evaluating team performance, such as project completion rates, team satisfaction surveys, and feedback from clients or stakeholders, as well as the importance of continuous improvement and ongoing feedback for enhancing team performance."
 tags:
   - "hybrid"
   - "productivity"
@@ -15,7 +14,7 @@ categories:
   - "Distributed teams"
 ---
 
-As businesses continue to expand their global reach, global teams are becoming increasingly common. However, managing and evaluating the performance of these teams can be challenging. To ensure the success of global teams, it's important to have a robust system in place for measuring performance and evaluating outcomes.
+As businesses continue to [expand their global reach](https://gracefulhr.com/post/global-teams/), global teams are becoming increasingly common. However, managing and evaluating the performance of these teams [can be challenging](https://gracefulhr.com/post/global-teams-challanges/). To ensure the success of global teams, it's important to have a robust system in place for measuring performance and evaluating outcomes.
 
 #### Quantitative Metrics: Project Completion Rates
 One of the most important quantitative metrics for measuring the success of global teams is project completion rates. This metric allows team leaders to measure the team's ability to meet deadlines, stay on task, and deliver results. By setting clear goals and objectives at the beginning of each project, team leaders can track progress and ensure that the team is making steady progress towards completion. 
