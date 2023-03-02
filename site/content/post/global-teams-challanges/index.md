@@ -5,7 +5,6 @@ meta: ["date", "author"]
 featured:
   url: featured.png
   alt: Group of people discussing something on the background of globe
-draft: true
 summary: "The blog post discusses the common challenges faced by global teams, including cultural, time zone, language, technology, and trust barriers. It also provides strategies and best practices for overcoming these challenges and effectively collaborating as a global team."
 tags:
   - "hybrid"
