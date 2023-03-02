@@ -1,11 +1,11 @@
 ---
-title:"Measuring success in global teams: evaluation and metrics"
+title: Measuring success in global teams
 date: 2023-01-21
 meta: ["date", "author"]
 featured:
   url: featured.png
   alt: People at the desk reviewing printed graphs
-summary: "In this blog post, we will discuss quantitative and qualitative metrics for evaluating team performance, such as project completion rates, team satisfaction surveys, and feedback from clients or stakeholders, as well as the importance of continuous improvement and ongoing feedback for enhancing team performance."
+summary: "In this blog post, we will discuss quantitative and qualitative metrics for evaluating team performance, such as project completion rates, team satisfaction surveys, and feedback from clients or stakeholders."
 tags:
   - "hybrid"
   - "productivity"
@@ -30,22 +30,22 @@ Finally, it's important to emphasize the importance of continuous improvement an
 
 > #### Examples of such metrics
 > 
-> ##### Quantitative Metrics - Project Completion Rates:
+> Quantitative Metrics - Project Completion Rates:
 > * Percentage of tasks completed on time
 > * Average project completion time
 > * Number of projects completed within budget
 > 
-> ##### Qualitative Metrics - Team Satisfaction Surveys:
+> Qualitative Metrics - Team Satisfaction Surveys:
 > * Overall team satisfaction rating
 > * Effectiveness of team communication and collaboration
 > * Opportunities for growth and development
 >
-> ##### Feedback from Clients or Stakeholders:
+> Feedback from Clients or Stakeholders:
 > * Client satisfaction ratings
 > * Project impact on business goals and objectives
 > * Stakeholder feedback on team communication and responsiveness
 > 
-> ##### Continuous Improvement and Ongoing Feedback:
+> Continuous Improvement and Ongoing Feedback:
 > * Number of feedback sessions conducted per team member per year
 > * Percentage of team members who completed training or professional development courses
 > * Number of suggestions or ideas implemented as a result of team member feedback
