@@ -6,7 +6,6 @@ featured:
   url: featured.png
   alt: A person guiding a drone on horizon remotely
   previewOnly: false
-draft: true
 summary: "In this blog post we discuss how global teams help businesses expand their reach, access diverse talent, and improve their agility in responding to changing market conditions"
 tags:
   - "hybrid"
