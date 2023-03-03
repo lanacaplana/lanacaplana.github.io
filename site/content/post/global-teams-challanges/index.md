@@ -1,6 +1,6 @@
 ---
 title: Overcoming challenges in global team collaboration
-date: 2023-02-28
+date: 2022-12-13
 meta: ["date", "author"]
 featured:
   url: featured.png
@@ -10,7 +10,7 @@ tags:
   - "hybrid"
   - "productivity"
 categories:
-  - "Distributed teams"
+  - "Global teams"
 ---
 
 As more businesses go global, they will increasingly rely on teams that span different geographies, cultures, and time zones to achieve their goals. As a result, they cannot function effectively by default, as they will inevitably face challenges related to collaboration, communication, and trust-building. Let us go over these issues in more detail.
