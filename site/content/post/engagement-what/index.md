@@ -3,7 +3,6 @@ title: What is employee engagement
 description:  "In this page, I will explain how to define the employee engagement"
 date: 2022-04-11
 meta: ["date", "author"]
-draft: true
 featured:
   url: featured.png
   alt: Several palms bring four pieces of puzzle together
