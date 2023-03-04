@@ -7,10 +7,10 @@ featured:
   alt: People at the desk reviewing printed graphs
 summary: "In this blog post, we will discuss quantitative and qualitative metrics for evaluating team performance, such as project completion rates, team satisfaction surveys, and feedback from clients or stakeholders."
 tags:
-  - "#GlobalTeams"
-  - "#TeamCollaboration"
-  - "#Productivity"
-  - "#Analytics" 
+  - "GlobalTeams"
+  - "TeamCollaboration"
+  - "Productivity"
+  - "Analytics" 
 categories:
   - "Distributed teams"
 ---
