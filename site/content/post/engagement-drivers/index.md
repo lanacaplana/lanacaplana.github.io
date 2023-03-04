@@ -9,11 +9,12 @@ featured:
   previewOnly: false
 summary: "Reflecting a 'psychological or physical state of being’ experienced by employees towards their jobs, an employee engagement can be considered as ..."
 tags:
-  - "engagement"
-  - "team health"
+  - "employee engagement"
+  - "wellbeing"
   - "leadership"
+  - "trust"
 categories:
-  - "Employee engagement"
+  - "Talent retention"
   - "Leadership development"
 ---
 

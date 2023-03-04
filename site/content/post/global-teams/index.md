@@ -7,9 +7,10 @@ featured:
   alt: An arm holding a globe on a blue background
 summary: "In this blog post we discuss how global teams help businesses expand their reach, access diverse talent, and improve their agility in responding to changing market conditions"
 tags:
-  - "GlobalTeams"
-  - "TeamCollaboration"
-  - "WorkforceDiversity"
+  - "global teams"
+  - "collaboration"
+  - "cultural divercity"
+  - "agility"
 categories:
   - "Distributed teams"
 ---

@@ -9,11 +9,11 @@ featured:
   previewOnly: false
 summary: "Managers often face a need to quantify people-related data when it comes to measuring employee happiness and other psychological states predicting ..."
 tags:
-  - "engagement"
-  - "team health"
-  - "analytics"
+  - "employee engagement"
+  - "wellbeing"
+  - "people analytics"
 categories:
-  - "Employee engagement"
+  - "Talent retention"
 ---
 
 Managers often face a need to quantify people-related data when it comes to measuring employee happiness and other psychological states predicting productivity and well-being. The most commonly used measure in scientific literature recommended by the trustworthy HR institutions, such as CIPD, is Utrecht Work Engagement Scale (UWES). Unlike other measures, this one proved by [the research](https://www.cipd.co.uk/knowledge/fundamentals/relations/engagement/evidence-engagement) to have positive relationships with organisational and task performance, customer satisfaction, productivity, innovation, staff retention, efficiency and health and safety performance. 
