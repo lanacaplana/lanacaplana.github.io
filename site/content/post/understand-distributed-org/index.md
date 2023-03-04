@@ -1,7 +1,7 @@
 ---
 title: A key to understand a distributed organization best
 description: "A key to understand a distributed organization best"
-date: 2023-01-11
+date: 2022-11-01
 author: svitlana
 meta: ["date", "author"]
 featured:

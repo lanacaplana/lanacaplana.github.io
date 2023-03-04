@@ -1,6 +1,6 @@
 ---
-title: The Importance of Global Teams for Business Success
-date: 2023-03-02
+title: The importance of global teams for business success
+date: 2022-08-02
 meta: ["date", "author"]
 featured:
   url: featured.png
@@ -10,7 +10,7 @@ tags:
   - "hybrid"
   - "productivity"
 categories:
-  - "Distributed teams"
+  - "Global teams"
 ---
 Global teams are an essential aspect of modern businesses, especially in today's globalized world. As companies continue to expand their operations beyond their home countries, the need for global teams becomes increasingly important. These teams allow businesses to tap into new markets, access diverse talent, and respond quickly to changing market conditions.
 

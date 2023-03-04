@@ -1,6 +1,6 @@
 ---
 title: Measuring success in global teams
-date: 2023-01-21
+date: 2022-10-21
 meta: ["date", "author"]
 featured:
   url: featured.png
@@ -11,7 +11,7 @@ tags:
   - "productivity"
   - "analytics"
 categories:
-  - "Distributed teams"
+  - "Global teams"
 ---
 
 As businesses continue to [expand their global reach](https://gracefulhr.com/post/global-teams/), global teams are becoming increasingly common. However, managing and evaluating the performance of these teams [can be challenging](https://gracefulhr.com/post/global-teams-challanges/). To ensure the success of global teams, it's important to have a robust system in place for measuring performance and evaluating outcomes.

@@ -13,7 +13,7 @@ tags:
   - "productivity"
   - "analytics"
 categories:
-  - "Distributed teams"
+  - "Global teams"
 ---
 
 Assessing productivity is something companies would consider in the first place when offering remote work opportunities for their employees. Depending on a business sector, technology, working schedules and specialised discipline, they can apply a [range of approaches](https://remote.co/employers-share-how-measure-productivity-among-remote-workers/) varying from the time logging to culture shift in order to have their business targets met. 
