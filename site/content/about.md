@@ -1,23 +1,25 @@
 ---
 title: About
 description: Gracefult tips on working with people.
-date: 2023-01-05
+date: 2022-01-05
 author: Svitlana Orlova
 menu: main
 ---
 
 ### Who I am
 
-My Name is Svitlana Orlova. I am an HR Professional, helping managers to lead their teams gracefully.
+Hi there! It's great to meet you. My name is Svitlana Orlova, and I'm an HR Professional who's passionate about helping managers lead their teams with empathy and purpose.
 
-I strongly believe that all the business activities and results come down to interaction between a leader and a group. The success of that interaction - robust trust, high productivity and retention, clear understanding of business goals - depends on the quality of relationships managers can build with their teams.
+I believe that the success of any business ultimately comes down to the quality of the relationships between leaders and their teams. That's why I'm dedicated to partnering with business leaders to address people issues, advise on relevant models and tools, and help them become outstanding leaders.
 
 ### What I do
 
-As an HR Professional, I understand how effective management and leadership looks like. I also see people issues and partner with business leaders to overcome those issues, advising on relevant models, tools, people data, and thus, help them to become outstanding leaders.
+On my blog, Graceful HR, you can expect to find effective and efficient people management approaches that will help you create a better workplace for your employees and ultimately make your business more successful. 
 
 ### What to expect
 
-I know that grace is a top quality of outstanding leaders. Graceful people are empathetic and elegant. They care about others and treat them with respect and dignity. They move gently towards their goals, embracing all challenges in a noble and ethical manner. They succeed often.
+I firmly believe that grace is a top quality of outstanding leaders, and I'm here to show you how to cultivate that quality in yourself and your team.
 
-My blog is about effective and ethical people management approaches for those who want to be an outstanding leader!
+So whether you're a seasoned manager or just starting out, I invite you to join me on this journey of graceful leadership. Let's build better relationships and achieve great things together!
+
+
