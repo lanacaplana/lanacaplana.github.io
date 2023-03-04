@@ -9,11 +9,11 @@ featured:
   previewOnly: false
 summary: "Depending on the type of business, specialised discipline and business KPIs one can apply different approaches to ..."
 tags:
-  - "#Productivity"
-  - "#RemoteWork"
-  - "#PerformanceManagement"
-  - "#WorkplaceCulture"
-  - "#Analytics"
+  - "Productivity"
+  - "RemoteWork"
+  - "PerformanceManagement"
+  - "WorkplaceCulture"
+  - "Analytics"
 categories:
   - "Distributed teams"
 ---
