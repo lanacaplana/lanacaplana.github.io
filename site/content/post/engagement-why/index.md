@@ -8,11 +8,12 @@ featured:
   alt: Many people put their arms together
 summary: "This post introduces the concept of employee engagement and explains why it's important for businesses. It also highlights some of the key benefits of engagement."
 tags:
-  - "motivation"
+  - "employee engagement"
   - "productivity"
-  - "team health"
+  - "innovation"
+  - "corporate culture"
 categories:
-  - "Employee engagement"
+  - "Talent retention"
 ---
 
 Employee engagement is a buzzword that you may have heard thrown around in HR circles, but what exactly does it mean? Simply put, employee engagement refers to the level of emotional commitment and dedication that an employee has towards their job and the organisation they work for. [Research has shown](https://www.gallup.com/workplace/236927/employee-engagement-drives-growth.aspx) that employee engagement is a key driver of business success. Engaged employees are more productive, more likely to stay with their organisation, and are more likely to provide exceptional customer service.

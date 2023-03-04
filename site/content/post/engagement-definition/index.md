@@ -15,7 +15,7 @@ tags:
   - "productivity"
   - "team health"
 categories:
-  - "Employee engagement"
+  - "Talent retention"
 ---
 
 Employee engagement has become top managers’ main point of consideration as an indicator of organisational health, informing people-related decisions both on the strategic and operational business levels. Being quite a sophisticated construct, Managers and HR Practitioners suffer to manage the engagement in their teams as there is no common understanding of its definition. In this post we will give the definition to the employee engagement, so to further understand its drivers and ways how to apply people management practices while leveraging those drivers.

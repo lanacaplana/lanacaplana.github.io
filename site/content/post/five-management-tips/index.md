@@ -9,11 +9,11 @@ featured:
 summary: "Employees with high quality jobs and professional managers are happier, healthier and better fulfilled, driving productivity, better quality ..."
 tags:
   - "leadership"
-  - "engagement"
-  - "productivity"
-  - "motivation"
+  - "employee engagement"
+  - "trust"
+  - "continuous learning"
 categories:
-  - "Employee engagement"
+  - "Talent retention"
   - "Leadership development"
 ---
 

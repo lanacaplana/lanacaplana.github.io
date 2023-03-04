@@ -9,10 +9,11 @@ featured:
 summary: "This post provides definitions of employee and work engagement. It also explains the difference between engagement and satisfaction, as well as distinguishes it from other related concepts"
 tags:
   - "motivation"
-  - "productivity"
-  - "team health"
+  - "wellbeing"
+  - "employee engagement"
+  - "corporate culture"
 categories:
-  - "Employee engagement"
+  - "Talent retention"
 ---
 Employee engagement is a crucial topic that has been gaining attention from business leaders in recent years. It's a term that's often used in the workplace, but not always well understood. In this blog post, we'll dive into the definition of employee engagement and what it means for organisations. We'll explore the various definitions that exist and help you understand the difference between employee engagement and other related concepts, such as employee satisfaction.
 
