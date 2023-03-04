@@ -31,7 +31,7 @@ enableEmoji = true
 [Params.Social] # Site Social block
   # email = "example@example.com"
   # facebook = "username"
-  # twitter = "username"
+  twitter = "GracefulHR"
   # telegram = "username"
   linkedin = "svitlana-orlova-60849346"
 
