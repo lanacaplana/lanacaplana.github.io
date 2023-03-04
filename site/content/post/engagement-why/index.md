@@ -6,7 +6,7 @@ meta: ["date", "author"]
 featured:
   url: featured.png
   alt: Many people put their arms together
-summary: "This post introduces the concept of employee engagement and explains why it's important for businesses. It also highlights some of the key benefits of engagement, such as increased productivity and reduced turnover."
+summary: "This post introduces the concept of employee engagement and explains why it's important for businesses. It also highlights some of the key benefits of engagement."
 tags:
   - "motivation"
   - "productivity"

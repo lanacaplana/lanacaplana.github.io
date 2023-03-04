@@ -5,12 +5,12 @@ meta: ["date", "author"]
 featured:
   url: featured.png
   alt: Group of people discussing something on the background of globe
-summary: "The blog post discusses the common challenges faced by global teams, including cultural, time zone, language, technology, and trust barriers. It also provides strategies and best practices for overcoming these challenges and effectively collaborating as a global team."
+summary: "The blog post discusses the common challenges faced by global teams, including cultural, time zone, language, technology, and trust barriers. It also introduces strategies for overcoming these challenges."
 tags:
   - "hybrid"
   - "productivity"
 categories:
-  - "Global teams"
+  - "Distributed teams"
 ---
 
 As more businesses go global, they will increasingly rely on teams that span different geographies, cultures, and time zones to achieve their goals. As a result, they cannot function effectively by default, as they will inevitably face challenges related to collaboration, communication, and trust-building. Let us go over these issues in more detail.
