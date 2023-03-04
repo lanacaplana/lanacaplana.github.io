@@ -10,8 +10,10 @@ featured:
   previewOnly: false
 summary: "We live in a post-pandemic world, when people faced and went through the unprecedented change in the world of work. It had a tremendous effect..."
 tags:
-  - "hybrid"
-  - "productivity"
+  - "#GlobalTeams"
+  - "#TeamCollaboration"
+  - "#TrustBuilding"
+  - "#CrossCulturalCommunication"
 categories:
   - "Distributed teams"
 ---
