@@ -11,7 +11,7 @@ tags:
   - "productivity"
   - "analytics"
 categories:
-  - "Global teams"
+  - "Distributed teams"
 ---
 
 As businesses continue to [expand their global reach](https://gracefulhr.com/post/global-teams/), global teams are becoming increasingly common. However, managing and evaluating the performance of these teams [can be challenging](https://gracefulhr.com/post/global-teams-challanges/). To ensure the success of global teams, it's important to have a robust system in place for measuring performance and evaluating outcomes.

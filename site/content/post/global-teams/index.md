@@ -10,7 +10,7 @@ tags:
   - "hybrid"
   - "productivity"
 categories:
-  - "Global teams"
+  - "Distributed teams"
 ---
 Global teams are an essential aspect of modern businesses, especially in today's globalized world. As companies continue to expand their operations beyond their home countries, the need for global teams becomes increasingly important. These teams allow businesses to tap into new markets, access diverse talent, and respond quickly to changing market conditions.
 
