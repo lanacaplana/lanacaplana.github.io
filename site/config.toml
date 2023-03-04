@@ -29,7 +29,7 @@ enableEmoji = true
   copyright = "GracefulHR (Svitlana Orlova)"
 
 [Params.Social] # Site Social block
-  # email = "example@example.com"
+  email = "contact@gracefulhr.com"
   # facebook = "username"
   twitter = "GracefulHR"
   # telegram = "username"
