@@ -2,7 +2,8 @@
 baseURL = "https://gracefulhr.com/"
 title = "GracefulHR"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+[pagination]
+  pagerSize = 10 # Number of posts per page
 theme = "amnix"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-WB11E4N7NG" # Enable Google Analytics by entering your tracking id
