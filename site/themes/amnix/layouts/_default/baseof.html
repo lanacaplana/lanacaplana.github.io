@@ -2,6 +2,7 @@
 <html class="no-js" lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
 	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="{{ .Site.Params.Manifest.themeColor | default "#5b5b67" }}">
 	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
@@ -35,7 +36,11 @@
 	<link rel="manifest" href="{{ "manifest.json" | relURL }}">
 	{{- end }}
 	{{- if not hugo.IsServer }}
+		{{- if hasPrefix .Site.GoogleAnalytics "G-" }}
 		{{ template "_internal/google_analytics.html" . }}
+		{{- else }}
+		{{ template "_internal/google_analytics.html" . }}
+		{{- end }}
 	{{- end }}
 	{{ partial "head_custom.html" . }}
 </head>
