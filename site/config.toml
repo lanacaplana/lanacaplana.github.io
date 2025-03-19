@@ -5,7 +5,6 @@ languageCode = "en-us"
 pagerSize = 10 # Number of posts per page
 theme = "amnix"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "G-WB11E4N7NG" # Enable Google Analytics by entering your tracking id
 description = "Graceful tips on working with people."
 enableEmoji = true
 
@@ -75,3 +74,6 @@ enableEmoji = true
 
 [outputs]
   home = ["HTML", "RSS", "MANIFEST"] # Include MANIFEST format to home page
+[services]
+  [services.googleAnalytics]
+    id = "G-WB11E4N7NG"
