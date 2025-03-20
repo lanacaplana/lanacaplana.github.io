@@ -6,7 +6,8 @@ meta: ["date", "author"]
 featured:
   url: featured.png
   alt: A person guiding a drone on horizon remotely
-  summary: "Performance management helps team members perform at their best, maximize their contributions, ..."
+  previewOnly: false
+  summary: "Want to boost your team's performance and keep them motivated? This guide breaks down performance management into practical steps—goal-setting, feedback, career development, and recognition—to help you lead with confidence."
 tags:
   - "motivation"
   - "productivity"
