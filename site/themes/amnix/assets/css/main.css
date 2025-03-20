@@ -773,8 +773,8 @@ th {
 	stroke: #33333a;
 }
 .blog-post-preview {
-    max-height: 96px;  /* Adjust this value as needed */
-    overflow: hidden;  /* Hides excess content */
-    display: flex;
+    max-height: 96px !important;  /* Limit the height */
+    overflow: hidden !important;  /* Hide extra content */
+    display: flex !important;  
     flex-direction: column;
 }
