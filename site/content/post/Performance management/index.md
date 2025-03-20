@@ -6,7 +6,7 @@ meta: ["date", "author"]
 featured:
   url: featured.png
   alt: A person guiding a drone on horizon remotely
-  summary: "performance management helps team members perform at their best, maximize their contributions, ..."
+  summary: "Performance management helps team members perform at their best, maximize their contributions, ..."
 tags:
   - "motivation"
   - "productivity"
@@ -20,7 +20,7 @@ Performance management doesn’t have a single definition. It includes
 * setting objectives, 
 * providing feedback, 
 * improving performance, 
-* supporting learning and development, (see airSlate Career Portal)
+* supporting learning and development,
 * recognizing achievements, and 
 * managing career growth. 
 
@@ -39,9 +39,9 @@ These benefits contribute to team [engagement](https://gracefulhr.com/post/engag
 This section offers practical advice for line managers on conducting effective performance management. It includes the following guides:
 
 1. Setting Team Goals: OKRs
-2. Giving a Formal Feedback
-3. Planning Career Development 
-4. Managing Underperformance
-5. Recognizing Your Talent: CFRs
+2. Recognizing Your Talent: CFRs
+3. Giving a Formal Feedback
+4. Planning Career Development 
+5. Managing Underperformance
 
 To learn more about best practices for performance management, the performance management cycle, and the performance management process, you can access our latest Performance Management Webinar. 
