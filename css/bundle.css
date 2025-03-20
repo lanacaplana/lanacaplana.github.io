@@ -1143,3 +1143,9 @@ th {
 	fill: #33333a;
 	stroke: #33333a;
 }
+.blog-post-preview {
+    max-height: 96px;  /* Adjust this value as needed */
+    overflow: hidden;  /* Hides excess content */
+    display: flex;
+    flex-direction: column;
+}
