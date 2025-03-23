@@ -1,7 +1,7 @@
 ---
 title: Giving feedback that drives change
 description: Effective feedback fosters growth, reinforces positive behaviors, and helps align individuals with business goals.
-date: 2025-03-23
+date: 2022-03-23
 meta:
   - date
   - author
