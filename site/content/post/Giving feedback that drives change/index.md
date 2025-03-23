@@ -1,12 +1,12 @@
 ---
 title: Giving feedback that drives change
 description: Effective feedback fosters growth, reinforces positive behaviors, and helps align individuals with business goals.
-date: 2025-03-23
+date: 2022-02-23
 meta:
   - date
   - author
 featured:
-  url: feedback_change.jpg
+  url: feedback_change.png
   alt: A manager giving constructive feedback to an employee
 previewOnly: false
 summary: Effective feedback is a powerful tool for driving change and improving performance when delivered thoughtfully.
@@ -14,10 +14,9 @@ tags:
   - Feedback
   - Leadership
   - Employee Engagement
-  - Continuous Learning
   - Productivity
 categories:
-  - Leadership Development
+  - Talent Retention
 ---
 
 ## Creating a Culture of Effective Feedback
