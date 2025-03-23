@@ -6,7 +6,7 @@ meta:
   - date
   - author
 featured:
-  url: feedback_change.jpg
+  url: feedback_change.png
   alt: A manager giving constructive feedback to an employee
 previewOnly: false
 summary: Effective feedback is a powerful tool for driving change and improving performance when delivered thoughtfully.
@@ -17,7 +17,7 @@ tags:
   - Continuous Learning
   - Productivity
 categories:
-  - Leadership Development
+  - Talent Retention
 ---
 
 ### Creating a Culture of Effective Feedback
