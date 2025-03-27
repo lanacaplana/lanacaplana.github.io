@@ -41,16 +41,16 @@ When expectations are clear, feedback becomes less about personal opinions and m
 
 The Situation-Behavior-Impact (SBI) model provides a straightforward framework for structuring feedback conversations:
 
-- **Situation (S)**: Start by describing the context where the behavior occurred. Be specific to help the employee recall the moment.
+**Situation (S)**: Start by describing the context where the behavior occurred. Be specific to help the employee recall the moment.
   - Example: "During last Monday’s project review meeting…"
-- **Behavior (B)**: Describe the specific actions or behaviors you observed, without making assumptions or personal judgments.
+**Behavior (B)**: Describe the specific actions or behaviors you observed, without making assumptions or personal judgments.
   - Example: "You interrupted colleagues multiple times before they could finish their points."
-- **Impact (I)**: Explain the consequences of the behavior and how it affects the team or goals.
+**Impact (I)**: Explain the consequences of the behavior and how it affects the team or goals.
   - Example: "This made it difficult for others to share their ideas and slowed down our decision-making process."
 
 To ensure feedback leads to meaningful change, add a final step:
 
-- **Expectations (E)**: Reinforce the desired behavior and align it with team success.
+**Expectations (E)**: Reinforce the desired behavior and align it with team success.
   - Example: "In future meetings, I’d like you to allow others to finish speaking before responding. This will help create a more open and collaborative discussion."
 
 ### Putting it all together
@@ -58,8 +58,11 @@ To ensure feedback leads to meaningful change, add a final step:
 Imagine a team member who frequently misses deadlines without prior communication. Using the SBI+E approach, the conversation might go like this:
 
 **Situation**: "For the last two project sprints, your reports were submitted two days late."
+
 **Behavior**: "You didn’t notify the team in advance that you were behind schedule."
+
 **Impact**: "This caused delays in the overall project timeline and created additional stress for the team."
+
 **Expectation**: "Going forward, if you anticipate a delay, please communicate it in advance so we can adjust plans accordingly."
 
 This structured approach removes ambiguity, makes feedback feel less personal, and provides a clear path for improvement.
