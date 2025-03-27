@@ -43,8 +43,10 @@ The Situation-Behavior-Impact (SBI) model provides a straightforward framework f
 
 **Situation (S)**: Start by describing the context where the behavior occurred. Be specific to help the employee recall the moment.
   - Example: "During last Monday’s project review meeting…"
+
 **Behavior (B)**: Describe the specific actions or behaviors you observed, without making assumptions or personal judgments.
   - Example: "You interrupted colleagues multiple times before they could finish their points."
+
 **Impact (I)**: Explain the consequences of the behavior and how it affects the team or goals.
   - Example: "This made it difficult for others to share their ideas and slowed down our decision-making process."
 
@@ -69,10 +71,10 @@ This structured approach removes ambiguity, makes feedback feel less personal, a
 
 ### Main takeaways
 
-- **Effective feedback** starts with clear expectations so employees understand what success looks like.
-- The **SBI model** ensures feedback is structured, objective, and actionable.
-- Adding an **Expectation (E)** step reinforces positive change and aligns behavior with team goals.
-- **Feedback** should be a regular practice, not just a formal review process.
-- When delivered correctly, feedback builds trust, fosters growth, and enhances team collaboration.
+1. **Effective feedback** starts with clear expectations so employees understand what success looks like.
+2. The **SBI model** ensures feedback is structured, objective, and actionable.
+3. Adding an **Expectation (E)** step reinforces positive change and aligns behavior with team goals.
+4. **Feedback** should be a regular practice, not just a formal review process.
+5. When delivered correctly, feedback builds trust, fosters growth, and enhances team collaboration.
 
 **Further Reading:** Using SBI model for managing underperformance [Link to a related article]
