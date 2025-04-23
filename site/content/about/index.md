@@ -9,7 +9,7 @@ featured:
   alt: Svitlana Orlova photo
 ---
 
-# Helping Managers Lead with Clarity, Confidence & Purpose
+### Helping Managers Lead with Clarity, Confidence & Purpose
 
 Coaching, training, and strategic support for leaders who want to grow—without burning out.
 
@@ -18,7 +18,7 @@ Coaching, training, and strategic support for leaders who want to grow—without
 
 ---
 
-## About Me
+### About Me
 
 **Hi there, I’m Svitlana Orlova.**  
 A Global HR professional passionate about helping managers lead with empathy, clarity, and purpose.
@@ -36,7 +36,7 @@ With experience at both strategic and operational levels, I serve as a reliable 
 
 ---
 
-## What I Do
+### What I Do
 
 I help managers:
 - Tackle people challenges with clarity and confidence
@@ -47,16 +47,16 @@ I use tools like Executive Coaching, Leadership Training, and Strategic HR Consu
 
 ---
 
-## I Can Help You With
+### I Can Help You With
 
-### Feeling overwhelmed by high demands and struggling to maintain focus?
+**Feeling overwhelmed by high demands and struggling to maintain focus?**
 You’re not alone—and there’s a better way.
 
 As an Executive Coach and Leadership Expert, I help managers address real-world challenges and turn them into growth opportunities.
 
 ---
 
-## 1. Driving Business Impact as a Manager
+### 1. Driving Business Impact as a Manager
 
 **Common challenges:**
 - Overloaded managers, unclear delegation
@@ -71,7 +71,7 @@ As an Executive Coach and Leadership Expert, I help managers address real-world 
 
 ---
 
-## 2. Leading High-Performing Remote Teams
+### 2. Leading High-Performing Remote Teams
 
 **Common challenges:**
 - Low engagement, communication gaps
@@ -85,7 +85,7 @@ As an Executive Coach and Leadership Expert, I help managers address real-world 
 
 ---
 
-## 3. Managing Team Performance to Drive Impact
+### 3. Managing Team Performance to Drive Impact
 
 **Common challenges:**
 - Low motivation, lack of initiative
@@ -100,7 +100,7 @@ As an Executive Coach and Leadership Expert, I help managers address real-world 
 
 ---
 
-## 4. Engaging and Retaining Key Talent
+### 4. Engaging and Retaining Key Talent
 
 **Common challenges:**
 - Generic management that misses personal needs
@@ -114,27 +114,27 @@ As an Executive Coach and Leadership Expert, I help managers address real-world 
 
 ---
 
-## How We Can Work Together
+### How We Can Work Together
 
-### 1. Career Consultancy
+**1. Career Consultancy**
 Personalized support to explore your development path.  
 👉 *Best for gaining clarity on what to grow and how to get there.*
 
-### 2. Lectures
+**2. Lectures**
 Practical talks on tools, strategies, and leadership mindsets.  
 👉 *Best for understanding how different approaches work in context.*
 
-### 3. Leadership Training
+**3. Leadership Training**
 Interactive, tailored workshops to boost your skills.  
 👉 *Best for applying knowledge and practicing new behaviors.*
 
-### 4. Leadership Coaching
+**4. Leadership Coaching**
 12+ sessions of deep, personalized coaching.  
 👉 *Best for analyzing, evolving, and creating sustainable leadership habits.*
 
 ---
 
-## Take a Moment to Reflect
+### Take a Moment to Reflect
 
 Where are you in your journey?  
 Do you need to **know**, **understand**, **apply**, **analyze**, **evaluate**, or **create**?
@@ -146,7 +146,7 @@ Let’s match your goal with the right learning format—and unlock your leaders
 
 ---
 
-## Testimonials
+### Testimonials
 
 > "Svitlana helped me go from overwhelmed to empowered. I finally feel like a real leader, not just someone managing tasks."  
 > — Head of Product, SaaS
@@ -154,7 +154,7 @@ Let’s match your goal with the right learning format—and unlock your leaders
 > "Thanks to our coaching sessions, I gained clarity in my role and brought new life to my remote team."  
 > — Team Lead, Fintech
 
-> "Ти допомогла мені вирости — і тепер я веду команду власним прикладом."  
-> — Team Lead, Digital Marketing
+> "You helped me grow — and now I lead my team by example."  
+> — Senior Manager, Digital Marketing
 
 
