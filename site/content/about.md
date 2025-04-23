@@ -5,7 +5,7 @@ date: 2022-01-05
 author: Svitlana Orlova
 menu: main
 featured:
-  url: photo.jpg
+  url: /images/photo.jpg
   alt: Svitlana Orlova photo
 ---
 
