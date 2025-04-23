@@ -1,12 +1,15 @@
 ---
 title: "Hello World!"
+description: Introdution.
 date: 2022-01-08
-meta: ["date", "author"]
+meta:
+  - date
+  - author
 featured:
-  url: featured.png
-  alt: A lady sitting in front of the laptop with a dog sitting near to her
+  url: photo2.jpg
+  alt: Photo Svitlana Orlova
   previewOnly: false
-summary:
+summary: Hi there! It’s great to meet you. My name is Svitlana Orlova, and I’m an HR Professional who’s passionate about helping managers lead their teams with empathy and purpose.
 layout: Single column + Sidebar
 
 ---
