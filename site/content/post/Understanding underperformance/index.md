@@ -1,0 +1,101 @@
+---
+title: Understanding underperformance - a core management skill  
+description: Managing underperformance is a vital leadership skill. Learn how to recognize early signs, respond constructively, and protect team performance.  
+date: 2023-06-15  
+meta:  
+  - date  
+  - author  
+featured:  
+  url: understanding underperformance.png  
+  alt: Manager in a focused one-on-one meeting with an employee  
+previewOnly: false  
+summary: Underperformance doesn’t fix itself—early, fair intervention is essential for individual and team success. This article outlines practical steps for managers.  
+tags:  
+  - Performance Management  
+  - Leadership  
+  - Productivity
+  - Feedback
+  - Motivation
+categories:  
+  - Talent Retention  
+---
+
+### The importance of managing underperformance  
+
+Performance management is one of the most important responsibilities for any manager. Doing it well means two things:  
+- Engaging each individual and the entire team in achieving results.  
+- Developing the skills needed for long-term success.  
+
+The time and energy a manager invests in supporting team members will vary depending on their experience, confidence, and the challenges they face. For most people, planning annual goals, reviewing progress, and offering coaching and feedback is enough.  
+
+But sometimes, despite your support, a team member doesn’t meet expectations. In these cases, identifying and addressing underperformance early is critical. It rarely fixes itself—and the longer it lingers, the more impact it can have on others, the team, and the company.  
+
+### Why underperformance matters  
+
+When someone underperforms, work may be delayed, incomplete, or shifted onto others. This creates an **uneven workload**, lowers morale, and drains the team’s energy. It also affects the team member directly—preventing them from growing and succeeding in their role.  
+
+That’s why managing underperformance isn’t just about discipline—it’s about **fairness, development, and protecting the health of the whole team**.  
+
+### Roles in managing underperformance  
+
+Clear responsibilities help create a fair and supportive performance culture:  
+- **Managers** define performance expectations and give ongoing feedback. When someone falls short, they must address it constructively—and take formal steps if needed.  
+- **Team members** are responsible for their own development and improvement, staying open to feedback and willing to grow.  
+- **HR** provides the guidance, tools, and policy support to help resolve issues in a fair and legally sound way—especially early in the process.  
+
+Together, these roles create a **shared, proactive approach** to performance.  
+
+### What managers are responsible for  
+
+If a team member isn’t meeting expectations, managers must take action—**early, fairly, and with documentation**. The official guidance must be followed, and performance concerns should be discussed with your HR as soon as they arise.  
+
+If termination is being considered, HR must consult with the HRD or Legal Department. Legal advice must be requested **at least 3 months before** the intended end date.  
+
+### When performance falls short  
+
+There are various performance scoring frameworks in use. Here's how underperformance can be defined across any framework, depending on the severity of the performance issues:
+
+**Partially Meets Expectations**
+
+The person is competent in most areas but needs development in 1–2 key aspects—such as quality, quantity, or core behaviors. This may be temporary (e.g., someone new to the role) or a signal of ongoing challenges.  
+
+**Examples:**  
+- Mostly meets goals, but key results or behaviors fall short.  
+- Needs extra support and coaching.  
+- Shows awareness and willingness to improve.  
+- Behaviors occasionally misaligned with company values.  
+
+**Manager actions:**  
+- The person can continue under their current agreement, with **written approval from the Department Head**.  
+- Two consecutive ratings of “Partially Meets” require **termination consideration**.  
+
+**Below Expectations**
+
+Performance is consistently below standard in multiple key areas. The quality or execution of work is not acceptable and hasn’t improved despite support.  
+
+**Examples:**  
+- Work often late, incomplete, or low quality.  
+- Needs constant supervision beyond what’s normal for the role.  
+- Limited knowledge of role or unwillingness to grow.  
+- Behaviors consistently misaligned with company values.  
+- Lack of ownership or motivation to improve.  
+
+**Manager actions:**  
+- Immediately involve HR.  
+- Begin formal performance improvement steps.  
+- Clearly **document actions and support** provided.  
+- Prepare por potential termination action.
+
+### Conclusion  
+
+Managing underperformance can feel uncomfortable—but it’s a **key part of responsible leadership**. When done early and fairly, it protects your team’s motivation, workload, and trust. It also gives the individual a real chance to succeed—or clarity when it’s time to move on.  
+
+### Main takeaways  
+
+1. Underperformance rarely improves without action—early support is essential.  
+2. Managers, HR, and team members each play a role in addressing it fairly.  
+3. Two official performance ratings help guide the right next steps.  
+4. Documentation and HR consultation are required before contract decisions.  
+5. Addressing performance issues early protects the team and builds trust.  
+
+**Further Reading:** [Identifying performance issues]
