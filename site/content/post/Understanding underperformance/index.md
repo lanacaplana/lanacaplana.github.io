@@ -45,15 +45,15 @@ Clear responsibilities help create a fair and supportive performance culture:
 
 Together, these roles create a **shared, proactive approach** to performance.  
 
-### What managers are responsible for  
+**What managers are responsible for**
 
 If a team member isn’t meeting expectations, managers must take action—**early, fairly, and with documentation**. The official guidance must be followed, and performance concerns should be discussed with your HR as soon as they arise.  
 
-If termination is being considered, HR must consult with the HRD or Legal Department. Legal advice must be requested **at least 3 months before** the intended end date.  
+If termination is being considered, HR must consult with the Senior Leadership or Legal Department, several months before the intended end date, depending on the type of employment contract.  
 
 ### When performance falls short  
 
-There are various performance scoring frameworks in use. Here's how underperformance can be defined across any framework, depending on the severity of the performance issues:
+There are different performance scoring frameworks in the corporate world. Here’s how you can spot underperformance in any of them, depending on how serious the issues are:
 
 **Partially Meets Expectations**
 
@@ -66,7 +66,7 @@ The person is competent in most areas but needs development in 1–2 key aspects
 - Behaviors occasionally misaligned with company values.  
 
 **Manager actions:**  
-- The person can continue under their current agreement, with **written approval from the Department Head**.  
+- The person can continue under their current agreement, usually with **written approval from the Senior Leadership and the involvement of HR**.  
 - Two consecutive ratings of “Partially Meets” require **termination consideration**.  
 
 **Below Expectations**
