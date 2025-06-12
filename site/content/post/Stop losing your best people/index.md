@@ -1,12 +1,12 @@
 ---
 title: Stop losing your best people - managing attrition risks before it’s too late
 description: Learn how People Professionals can empower Managers to detect early signs of resignation and reduce critical talent loss through a structured risk management approach.
-date: 2024-02-01
+date: 2025-06-01
 meta:
   - date
   - author
 featured:
-  url: attrition_risk.png
+  url: attrition_risk.jpg
   alt: A concerned manager reviewing team data and planning retention actions
 previewOnly: false
 summary: Is your top talent leaving without warning? Learn how to help managers detect and manage resignation risks before it's too late.
@@ -69,20 +69,20 @@ Managers should regularly assess both:
 
 For high-risk cases:  
 
-- Discuss concerns during **1-on-1s**  
-- Update status in your **tool** (e.g., HRIS, Google Sheets)  
-- Define a **mitigation plan** (e.g., development, mobility, mentoring)  
-- **Escalate unacceptable risks** to People Professionals and Business Leaders  
+- Discuss concerns during 1-on-1s  
+- Update status in your tool (e.g., HRIS, Google Sheets)  
+- Define a mitigation plan (e.g., development, mobility, mentoring)  
+- Escalate unacceptable risks to People Professionals and Business Leaders  
 
 Use a shared status language:  
-**Identified → Assessed → Mitigated → Realized → Closed**  
+Identified → Assessed → Mitigated → Realized → Closed  
 
 **3. Review and update regularly**
 
-Managers should review risk levels **quarterly**, or more often if issues arise.  
+Managers should review risk levels quarterly, or more often if issues arise.  
 
-**People Professionals** monitor updates and flag urgent cases.  
-**Business Leaders** and People Professionals co-review mitigation and succession plans every quarter to ensure alignment.  
+People Professionals monitor updates and flag urgent cases.  
+Business Leaders and People Professionals co-review mitigation and succession plans every quarter to ensure alignment.  
 
 ## What People Professionals can do today  
 
@@ -95,9 +95,9 @@ Embedding this approach takes more than tools—it requires coaching and partner
 
 ## Key takeaways  
 
-1. **Attrition is predictable** when managers know what to look for  
-2. **Retention is a shared responsibility** - People Professionals enable, managers act  
-3. **Structured risk evaluation** helps prioritize high-impact talent  
-4. **Mitigation plans must be timely, visible, and tracked**
+1. Attrition is predictable when managers know what to look for  
+2. Retention is a shared responsibility - People Professionals enable, managers act  
+3. Structured risk evaluation helps prioritize high-impact talent  
+4. Mitigation plans must be timely, visible, and tracked
 
-**Further Reading:** [Work motivation - a key to understanding why talent would stay]
+**Further Reading:** [Why people stay - how work motivation affects retention]
